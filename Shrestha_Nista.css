@@ -1,0 +1,91 @@
+*{
+	padding:5px;
+    text-align: left;
+	
+}
+body{
+	background-image: url("4.jpg");
+	 background-repeat: no-repeat;
+	 color:White;
+	 text-align: left;
+	}
+
+#h1{
+	color:White;
+	text-align: left;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline
+}
+.h2{	
+	color: white;
+	font-style:italic;
+	text-align: left;}
+
+button{
+	color:black;
+}
+footer{
+	background-color: Black;
+	text-decoration: underline;
+	font-style: normal;
+	font-weight: Bold;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	padding: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+
+nav {
+	color:yellow;
+	text-decoration: underline;
+	font-style: normal;
+	font-weight: Bold;
+	
+	width: 100%;
+	padding: 0px;
+}
+
+.navHeader{
+	background-color: black;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	padding: 0px;
+	font-size: 150%;
+	position: fixed;
+}
+.p{
+	text-align: left;
+}
+	
+ul {
+	list-style-type:none;
+	padding-top:3px;
+	padding-bottom:3px;
+	}
+ul li {
+	display:inline;
+	}
+.img-circle{
+	border-radius: 50%; 
+}
+a:link, a:visited {
+	padding:3px;
+	}
+
+#photo{
+	margin-top:50px;
+}
+iframe{
+	align: right;
+}
+
+#Velocity, #Time, #fname, #lname, #email, #comments, #post{
+	color: black;
+
+}
